@@ -13,5 +13,7 @@ Un [blog increíble](https://sr-lechuga.github.io/Hyperblog/blogpost.html "Hyper
 * El verdadero amor por las buenas practicas
 * Trucos muy locos de Freddy "Cabeza cuadrada" Vega
 * Las personalidades múltiples de Freddy
+* Creado por el increible equipo de Platzi
+
 
 Y como amable recordatorio **Este resumen, es un chiste**. Diseñado pura y exclusivamente para el ejemplo. Si llegaste hasta este punto, [**dale una visita al curso**](https://platzi.com/clases/git-github/ "dale una visita al curso")
