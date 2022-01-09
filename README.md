@@ -1,4 +1,4 @@
-# Hyperblog 🐾
+# [Hyperblog](https://sr-lechuga.github.io/Hyperblog/blogpost.html "Hyperblog") 🐾
 Un blog increíble para el curso de [Git y GitHub](https://platzi.com/clases/git-github/ "Git y GitHub") de [Platzi](https://platzi.com/home "Platzi")
 > Toda aventura tiene un comienzo, y este curso es el primer paso en el viaje al vasto mundo de la programación. Es la herramienta que me faltaba para dejar registro de los pasos que dé a lo largo del camino...
 
